@@ -1,13 +1,23 @@
-.nav-left{
-	display: inline-block;
+
+
+.navbar{
+	display: block;
+
+	.logo{
+		display: inline;
+
+		.fa-bars{
+			margin-top: 25px;
+		}
+	}
+
 	ul{
 		padding-top: 10px;
 	    padding-left: 0;
 	    text-align: left;
 	    list-style-type: none;
 	    display: block;
-
-
+	    width: 100%;
 
 	    li{
 	    	width: 100%;
@@ -19,7 +29,22 @@
 
 }
 
-.nav-right{
-	display: inline-block;
-	float: right;
+.sign-in-register{
+	display: block;
+	
+	ul{
+		padding-top: 10px;
+	    padding-left: 0;
+	    text-align: left;
+	    list-style-type: none;
+	    display: block;
+	    width: 100%;
+
+	    li{
+	    	width: 100%;
+		    padding: 5px 0;
+		    display: block;
+		    border-bottom: 1px solid gray;
+	    }
+	}
 }
