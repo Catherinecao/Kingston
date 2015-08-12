@@ -1,7 +1,7 @@
 {
 "version": 3,
-"mappings": "AAAA,OAAO;EACN,aAAa,EAAE,GAAG;EAClB,gBAAgB,ECDT,KAAK;EDEZ,UAAU,ECAK,8BAAqC;;ACHrD,IAAI;EACH,gBAAgB,EDCA,wBAAyB",
-"sources": ["../sass/base/_nav-1.scss","../sass/base/_variable.scss","../sass/base/_basic.scss"],
+"mappings": "AAAA,OAAO;EACN,QAAQ,EAAC,KAAK;EACd,OAAO,EAAC,EAAE;EACV,KAAK,EAAC,IAAI;EAEV,aAAa,EAAE,GAAG;EAClB,gBAAgB,ECLT,KAAK;EDMZ,UAAU,ECJK,8BAAqC;;ACHrD,IAAI;EACH,gBAAgB,EDCA,yBAA0B;;AEG1C,sBAAG;EACF,KAAK,EAAE,IAAI;EACX,UAAU,EAAC,IAAI;AAIhB,6BAAU;EACT,SAAS,EAAE,GAAG;EAEd,OAAO,EAAE,SAAS;;AAKnB,oBAAG;EACF,KAAK,EAAE,IAAI;EACX,UAAU,EAAE,IAAI;;AAIlB,MAAM;EACL,gBAAgB,EFzBT,KAAK;EE0BZ,MAAM,EAAC,cAAe;EACtB,MAAM,EAAC,KAAK;;AAGb,MAAM;EACL,UAAU,EAAC,MAAM;EACjB,MAAM,EAAC,SAAS;;ACjCjB,MAAM;EACL,WAAW,EAAC,KAAK;EACjB,cAAc,EAAC,IAAI;EACnB,gBAAgB,EAAE,OAAkB;EAEpC,SAAE;IACD,eAAe,EAAE,IAAI;IAErB,YAAE;MACD,UAAU,EAAE,MAAM",
+"sources": ["../sass/base/_nav-1.scss","../sass/base/_variable.scss","../sass/base/_basic.scss","../sass/home/_school-background.scss","../sass/home/_footer.scss"],
 "names": [],
 "file": "main.css"
 }

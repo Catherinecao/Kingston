@@ -1,0 +1,13 @@
+footer{
+	padding-top:100px;
+	padding-bottom:50px;
+	background-color: darken($gray, 10%);
+
+	ul{
+		list-style-type: none;
+
+		li{
+			text-align: center;
+		}
+	}
+}
