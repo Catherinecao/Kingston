@@ -16,9 +16,10 @@ body {
   font-size: 2em;
   padding: 10px 15px; }
 
-.student-service img {
-  width: 100%;
+.student-service {
   margin-top: 50px; }
+  .student-service img {
+    width: 100%; }
 
 .iterm {
   background-color: white;
@@ -28,6 +29,11 @@ body {
 button {
   text-align: center;
   margin: 10px auto; }
+
+.student-activities {
+  margin-top: 50px; }
+  .student-activities img {
+    width: 100%; }
 
 footer {
   padding-top: 100px;
